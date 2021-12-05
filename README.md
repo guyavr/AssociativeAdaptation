@@ -1,2 +1,2 @@
 # AssociativeAdaptation
-Data for paper "Contextual effects in motor adaptation adhere to associative learning rules"
+Data for paper "Contextual effects in sensorimotor adaptation adhere to associative learning rules"
